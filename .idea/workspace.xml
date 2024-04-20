@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4c0b63b-fb0b-4e3c-9da5-a1ca6d0f10fc" name="Changes" comment="criando um login com SingIN">
+      <change afterPath="$PROJECT_DIR$/../../3087-app-web-java-spring-aula_5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3087-app-web-java-spring-aula_5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3087-app-web-java-spring-aula_5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7 Days to Die.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AMD/AMD/AMD GRAPHICS R5 220 16.2.1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AMD/AMD/Chipset.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AMD/AMD/Video.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AMD/AMD/non-whql-radeon-software-adrenalin-2020-21.5.1-win10-64bit-may6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AMD/Audio.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AMD/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DAS-PGMEI-27706249000173-AC2024.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Discord.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCam.Setup.6.5.2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DroidCamApp.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Eclipse IDE for Enterprise Java and Web Developers - 2023-12.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GitHub Desktop.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Insomnia.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Instagram.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Left 4 Dead 2.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Outward.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Postman.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Project Zomboid.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rust.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TCC.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TCC/385-618-1-PB.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TCC/Desenvolvimento de um Software de Prontuário Eletrônico do Cidadão.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TCC/TCC.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TCC/analise.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TCC/download.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TCC/joanad’arcaparecidasiqueiraneiva.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../The Forest.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Visual Studio Code.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Zoom.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amd-software-adrenalin-edition-23.12.1-minimalsetup-231205_web.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/logica-js-projeto_inicial/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/logica-js-projeto_inicial/img/JS Game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/logica-js-projeto_inicial/img/JS Game_files/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/logica-js-projeto_inicial/img/JS Game_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/logica-js-projeto_inicial/img/Ruido.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/logica-js-projeto_inicial/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/logica-js-projeto_inicial/img/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/logica-js-projeto_inicial/img/robot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/logica-js-projeto_inicial/img/trophy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/logica-js-projeto_inicial/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logica-js-projeto_inicial/logica-js-projeto_inicial/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../~$me do caso de Uso.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CadastroUsuario/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CadastroUsuario/.idea/CadastroUsuario.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3087-app-web-java-spring-aula_5/.idea/3087-app-web-java-spring-aula_5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CadastroUsuario/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CadastroUsuario/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CadastroUsuario/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CadastroUsuario/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CadastroUsuario/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CadastroUsuario/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3087-app-web-java-spring-aula_5/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cadastroUsuario" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7b9ff673-9b77-459f-b667-114c282038ab" />
+        <option name="url" value="https://github.com/CaiqueJrsilva/cadastroUsuario" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2emObp8Dt2ESN9JfgHlZsL0S2ew" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Pichau/OneDrive/Área de Trabalho/Tudo/cadastroUsuario",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CadastroUsuario" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CadastroUsuario" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4c0b63b-fb0b-4e3c-9da5-a1ca6d0f10fc" name="Changes" comment="" />
+      <created>1712506362087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712506362087</updated>
+    </task>
+    <task id="LOCAL-00001" summary="criando um login com SingIN">
+      <option name="closed" value="true" />
+      <created>1712512662605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712512662605</updated>
+    </task>
+    <task id="LOCAL-00002" summary="criando um login com SingIN">
+      <option name="closed" value="true" />
+      <created>1712513922483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712513922483</updated>
+    </task>
+    <task id="LOCAL-00003" summary="criando um login com SingIN">
+      <option name="closed" value="true" />
+      <created>1712513935367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712513935367</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="criando um login com SingIN" />
+    <option name="LAST_COMMIT_MESSAGE" value="criando um login com SingIN" />
+  </component>
+</project>
